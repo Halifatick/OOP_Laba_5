@@ -10,4 +10,10 @@
     <string name="menu_home">Home</string>
     <string name="menu_gallery">Gallery</string>
     <string name="menu_slideshow">Slideshow</string>
+
+    <string name="button_text">Показать текст!</string>
+    <string name="button_text2">Скрыть текст!</string>
+
+    <string name="text_description">Нажать на кнопку</string>
+    <string name="text">Крыжевич Артём Александрович! ИВТ-3</string>
 </resources>
