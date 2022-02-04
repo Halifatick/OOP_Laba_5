@@ -1,4 +1,4 @@
-package com.example.oop_laba_5;
+package com.example.oop_laba__1;
 
 import org.junit.Test;
 

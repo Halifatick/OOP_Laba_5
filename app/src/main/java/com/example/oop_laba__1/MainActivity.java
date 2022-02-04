@@ -1,9 +1,10 @@
-package com.example.oop_laba_5;
+package com.example.oop_laba__1;
 
 import android.os.Bundle;
 import android.view.View;
 import android.view.Menu;
 
+import com.example.oop_laba__1.R;
 import com.google.android.material.snackbar.Snackbar;
 import com.google.android.material.navigation.NavigationView;
 
@@ -14,7 +15,7 @@ import androidx.navigation.ui.NavigationUI;
 import androidx.drawerlayout.widget.DrawerLayout;
 import androidx.appcompat.app.AppCompatActivity;
 
-import com.example.oop_laba_5.databinding.ActivityMainBinding;
+import com.example.oop_laba__1.databinding.ActivityMainBinding;
 
 public class MainActivity extends AppCompatActivity {
 

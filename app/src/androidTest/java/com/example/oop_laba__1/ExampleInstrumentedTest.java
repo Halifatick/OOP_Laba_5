@@ -1,4 +1,4 @@
-package com.example.oop_laba_5;
+package com.example.oop_laba__1;
 
 import android.content.Context;
 
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
     public void useAppContext() {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getInstrumentation().getTargetContext();
-        assertEquals("com.example.oop_laba_5", appContext.getPackageName());
+        assertEquals("com.example.oop_laba__1", appContext.getPackageName());
     }
 }

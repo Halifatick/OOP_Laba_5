@@ -1,4 +1,4 @@
-package com.example.oop_laba_5.ui.home;
+package com.example.oop_laba__1.ui.home;
 
 import android.os.Bundle;
 import android.view.LayoutInflater;
@@ -11,8 +11,8 @@ import androidx.annotation.NonNull;
 import androidx.fragment.app.Fragment;
 import androidx.lifecycle.ViewModelProvider;
 
-import com.example.oop_laba_5.R;
-import com.example.oop_laba_5.databinding.FragmentHomeBinding;
+import com.example.oop_laba__1.R;
+import com.example.oop_laba__1.databinding.FragmentHomeBinding;
 
 public class HomeFragment extends Fragment {
 
